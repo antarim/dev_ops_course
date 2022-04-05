@@ -2,4 +2,4 @@
 
 ![Kali](screenshots/kali_screenshot.jpg)
 
-#### (Ubuntu Desktop dead after virtualbox guest additiongs installation)
+#### (Ubuntu Desktop dead after virtualbox guest additions installation)
