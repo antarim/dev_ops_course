@@ -107,10 +107,13 @@ resource "docker_container" "mysql" {
 ```
 
 Running **terraform plan**
+
 ![](screenshots/terraform_plan.jpg)
 
 Applying
+
 ![](screenshots/terraform_apply.jpg)
 
 Running containers
+
 ![](screenshots/running_containers.jpg)
