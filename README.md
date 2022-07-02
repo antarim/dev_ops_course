@@ -1,4 +1,4 @@
-# Docker
+# Terraform
 
 Push images to Docker Hub
 ![](screenshots/docker_push.jpg)
