@@ -1,12 +1,15 @@
 # Terraform
 
 Push images to Docker Hub
+
 ![](screenshots/docker_push.jpg)
 
 Image pushed
+
 ![](screenshots/pushed_images.jpg)
 
 Verify Terraform
+
 ![](screenshots/terraform.jpg)
 
 main.tf
