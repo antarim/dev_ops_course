@@ -1,24 +1,26 @@
-# Jenkins
+# Prometheus & Grafana
 
-Started jenkins service
+Started prometheus service
 
-![aws](screenshots/start_jenkins.jpg)
+![aws](screenshots/prom_enable_status.jpg)
 
-Install plugins
+![aws](screenshots/prom_version.jpg)
 
-![aws](screenshots/localhost_jenkins.jpg)
+Prometheus metrics in Jenkins
 
+![aws](screenshots/prom_metrics.jpg)
 
+Prometheus targets
 
-![aws](screenshots/welcome.jpg)
+![aws](screenshots/prom_targets.jpg)
 
-Jenkins pulling github repo > terraform init > terraform apply
+Start Grafana
 
-![aws](screenshots/pulling_github.jpg)
+![aws](screenshots/grafana_service.jpg)
 
-Instance running
+Grafana Jenkins dashboard using Prometheus metrics
 
-![aws](screenshots/running.jpg)
+![aws](screenshots/grafana_dashboard.jpg)
 
 
 
